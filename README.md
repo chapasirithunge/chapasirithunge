@@ -3,7 +3,7 @@
 **Marie Sklodowska-Curie Fellow**  
 Bio-Inspired Robotics Lab, University of Cambridge  |  [LinkedIn](https://www.linkedin.com/in/chapa-sirithunge/)  |  [Google Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)  |  [GitHub](https://github.com/yourusername)  |  [Email](mailto:csh66@cam.ac.uk)
 
-  <img src="[images](https://github.com/chapasirithunge/Chapa-Sirithunge/tree/main/images/me3.jpg" alt="Profile Photo" width="650" style="margin-left: 15px;"/>
+  <img src="[images]("https://github.com/chapasirithunge/Chapa-Sirithunge/tree/main/images/me3.jpg" alt="Profile Photo" width="650" style="margin-left: 15px;"/>
 
 [About Me](#about-me) ⬩ 
 [Research Interests](#research-interests) ⬩ 
